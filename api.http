@@ -1,0 +1,5 @@
+GET https://api.restful-api.dev/objects
+###
+GET https://api.restful-api.dev/objects/1
+###
+GET https://api.restful-api.dev/objects
